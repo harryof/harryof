@@ -1,6 +1,8 @@
 # Hi, I'm Gleb aka harryof) 👋
 **Frontend / Full-Stack Developer** focused on building clean, fast, and highly responsive web applications using React, TypeScript, and modern web technologies.
 
+🌐 **Live portfolio → [harryof.vercel.app](https://harryof.vercel.app/)**  ·  📄 **[Download resume (PDF)](https://harryof.vercel.app/assets/Gleb_Motin_Resume.pdf)**
+
 ---
 
 ### 💻 Technical Stack & Tools
@@ -18,6 +20,7 @@
 - **Core Features:** Integrated GigaChat API with a custom RAG (Retrieval-Augmented Generation) architecture. Implemented backend logic for automotive VIN decoding to dynamically fetch matching parts from a PostgreSQL database.
 - **Tech Stack:** React, TypeScript, Node.js, PostgreSQL, GigaChat API, Docker, Git.
 - **Role:** End-to-end development, including UI/UX layout, backend API structure, database design, and Docker containerization.
+- **Live demo:** [auto-parts-ecommerce-ai.vercel.app](https://auto-parts-ecommerce-ai.vercel.app/) · **Code:** [GitHub](https://github.com/harryof/auto-parts-ecommerce-ai)
 
 #### 🏠 Triatrum.ru & ArendOK.ru
 *Commercial web platforms for Real Estate (Las Vegas company) and P2P Marketplace (Avito alternative).*
@@ -28,6 +31,7 @@
 ---
 
 ### 📬 Connect with me
-- **LinkedIn:** [https://www.linkedin.com/in/gleb-motin-23428b412]
+- **Portfolio:** [harryof.vercel.app](https://harryof.vercel.app/)
+- **LinkedIn:** [gleb-motin](https://www.linkedin.com/in/gleb-motin-23428b412)
 - **Email:** motingleb04@gmail.com
 - **Telegram:** @glebmotin
